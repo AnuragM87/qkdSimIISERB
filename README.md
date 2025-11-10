@@ -7,7 +7,7 @@ This project simulates Quantum Key Distribution (QKD) protocols (DPS, COW, and B
 ## Project Structure
 
 ```
-cow_qkd_repo/
+qkd_sim_repo/
 ├── api.py                # FastAPI entry point (backend API)
 ├── main.py               # Backend entry script and simulation runner
 ├── simulation/           # Core simulation logic (Python package)
